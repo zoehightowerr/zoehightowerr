@@ -4,7 +4,6 @@
 
 ### 🔭 I’m currently working on:
 - **Brewconomics** – analyzing how median income affects NYC coffee prices using SQL, Python, and data visualization  
-- **Moodify** –  web app that generates mood-based playlists using real-time listening data, ML, and Spotify API
 - **Tilda** – an AI-powered calendar optimizer that helps students manage time more intentionally
 
 ### 🌱 This summer I'm:
