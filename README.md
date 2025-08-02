@@ -1,6 +1,6 @@
 ## Hi, I'm Zoe! 👋
 
-✨ I'm a Computer Science & Applied Statistics student at **Columbia University** (Class of 2027), passionate about blending **technology**, **data**, and **design** to create meaningful user experiences.
+✨ I'm a Computer Science & Applied Statistics student at **Columbia University** (Class of 2027), I am passionate about making data-driven decisions.
 
 
 ### 📫 How to reach me:
